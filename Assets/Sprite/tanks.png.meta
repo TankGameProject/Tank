@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: 648cb9035ef462b44bdf16adaa277463
+timeCreated: 1546530998
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tanks_0
+    21300002: tanks_1
+    21300004: tanks_2
+    21300006: tanks_3
+    21300008: tanks_4
+    21300010: tanks_5
+    21300012: tanks_6
+    21300014: tanks_7
+    21300016: tanks_8
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tanks_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tanks_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 403
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tanks_2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 403
+        width: 150
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tanks_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 149
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tanks_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 200
+        width: 149
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tanks_5
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 200
+        width: 149
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tanks_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 141
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tanks_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 141
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tanks_8
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 140
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -111, y: -135.5}
+      - {x: -141, y: -135.5}
+      - {x: -144, y: -136.5}
+      - {x: -155, y: -135.5}
+      - {x: -244, y: -135.5}
+      - {x: -248, y: -136.5}
+      - {x: -248, y: -298.5}
+      - {x: -247, y: -302.5}
+      - {x: -107, y: -302.5}
+      - {x: -103, y: -297.5}
+      - {x: -103, y: -141.5}
+    - - {x: -66, y: -135.5}
+      - {x: -72, y: -142.5}
+      - {x: -72, y: -298.5}
+      - {x: -70, y: -302.5}
+      - {x: 73, y: -302.5}
+      - {x: 73, y: -136.5}
+      - {x: 68, y: -135.5}
+    - - {x: 114, y: -135.5}
+      - {x: 114, y: -302.5}
+      - {x: 256, y: -302.5}
+      - {x: 256, y: -135.5}
+    - - {x: -110, y: -104.5}
+      - {x: -105, y: -100.5}
+      - {x: -105, y: 61.5}
+      - {x: -108, y: 64.5}
+      - {x: -252, y: 64.5}
+      - {x: -256, y: 61.5}
+      - {x: -256, y: -100.5}
+      - {x: -252, y: -104.5}
+      - {x: -206, y: -104.5}
+      - {x: -186, y: -86.5}
+      - {x: -148, y: -104.5}
+    - - {x: 76, y: -104.5}
+      - {x: 76, y: 59.5}
+      - {x: 71, y: 64.5}
+      - {x: -75, y: 64.5}
+      - {x: -77, y: 60.5}
+      - {x: -77, y: -99.5}
+      - {x: -74, y: -104.5}
+      - {x: -33, y: -104.5}
+      - {x: -26, y: -103.5}
+      - {x: -20, y: -70.5}
+      - {x: 6, y: -62.5}
+      - {x: 25, y: -104.5}
+    - - {x: 252, y: -104.5}
+      - {x: 256, y: -101.5}
+      - {x: 256, y: 63.5}
+      - {x: 255, y: 64.5}
+      - {x: 107, y: 64.5}
+      - {x: 104, y: 59.5}
+      - {x: 104, y: -98.5}
+      - {x: 111, y: -104.5}
+      - {x: 144, y: -104.5}
+      - {x: 147, y: -103.5}
+      - {x: 156, y: -98.5}
+      - {x: 190, y: -104.5}
+    - - {x: -111, y: 98.5}
+      - {x: -104, y: 104.5}
+      - {x: -104, y: 299.5}
+      - {x: -109, y: 302.5}
+      - {x: -256, y: 302.5}
+      - {x: -256, y: 98.5}
+      - {x: -194, y: 98.5}
+      - {x: -187, y: 119.5}
+      - {x: -144, y: 99.5}
+      - {x: -136, y: 98.5}
+    - - {x: 77, y: 100.5}
+      - {x: 77, y: 302.5}
+      - {x: -77, y: 302.5}
+      - {x: -77, y: 106.5}
+      - {x: -74, y: 98.5}
+      - {x: -29, y: 98.5}
+      - {x: -16, y: 106.5}
+      - {x: 25, y: 98.5}
+      - {x: 59, y: 98.5}
+    - - {x: 256, y: 101.5}
+      - {x: 256, y: 302.5}
+      - {x: 104, y: 302.5}
+      - {x: 104, y: 98.5}
+      - {x: 186, y: 98.5}
+      - {x: 199, y: 101.5}
+      - {x: 220, y: 98.5}
+      - {x: 254, y: 98.5}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
